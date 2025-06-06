@@ -28,4 +28,4 @@ After writing the code, I executed and tested it in BlueJ. The terminal window w
 
 Overall, this task enhanced my practical knowledge of HTTP communication in Java and reinforced concepts like stream handling, error management, and API integration. It also boosted my familiarity with using BlueJ for real-world projects and open-source resources for Java programming. The REST API client program developed in this task will serve as a foundation for future projects involving web services and JSON data processing.
 
-OUTPUT :
+OUTPUT : ![Image](https://github.com/user-attachments/assets/ca0189ba-34e2-4762-937a-1c0fcfc9774e)
